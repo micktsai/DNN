@@ -1,3 +1,3 @@
 # DNN
 
-DNN for ToS classifaction
+DNN for ToS classification
